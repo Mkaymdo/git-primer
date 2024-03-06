@@ -1,8 +1,3 @@
-# git-primer
-echo "# git-primer" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Mkaymdo/git-primer.git
-git push -u origin main
+## git-primer
+
+Samuel has asked us to create a repository that serves as a primer for learning Git version control system. It includes resources and basic exercises to get you started with Git fundamentals.
